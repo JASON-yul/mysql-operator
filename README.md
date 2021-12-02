@@ -1,3 +1,6 @@
+
+镜像仓库：https://artifacthub.io/packages/search?ts_query_web=mysql-operator&sort=relevance&page=1
+
 # MySQL Operator
 
 MySQL Operator enables bulletproof MySQL on Kubernetes. It manages all the necessary resources for deploying and managing a highly available MySQL cluster. It provides effortless backups, while keeping the cluster highly available.
